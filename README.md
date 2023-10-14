@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steed1401
 - 👀 I’m interested in learning about webdesign, house music and many more ^^
 - 🌱 I’m currently learning the very basics
-- 💞️ I’m looking to collaborate onproject to grow
+- 💞️ I’m looking to collaborate on projects to grow as a full stack 
 - 📫 How to reach me to the next levl 
 
 <!---
